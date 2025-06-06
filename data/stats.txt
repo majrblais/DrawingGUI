@@ -1,0 +1,6 @@
+images = 12 *3*4000*4000
+
+Class feature statistics:
+features = 0
+features per image = [min = 0, mean = 0.00, max = 0]
+classes = 0

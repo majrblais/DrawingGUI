@@ -1,0 +1,102 @@
+{
+  "Version" : 1,
+  "NumBands" : 3,
+  "TileSizeX" : 4000,
+  "TileSizeY" : 4000,
+  "NumClasses" : 0,
+  "NumTiles" : 12,
+  "NumTilesAsDouble" : 12,
+  "NextTileIndex" : 26,
+  "OutputFeatures" : true,
+  "MetaDataMode" : "Export_Tiles",
+  "MinCellSize" : {
+    "x" : 0.5,
+    "y" : 0.5,
+    "spatialReference" : {
+      "wkid" : 102100,
+      "latestWkid" : 3857
+    }
+  },
+  "MaxCellSize" : {
+    "x" : 0.5,
+    "y" : 0.5,
+    "spatialReference" : {
+      "wkid" : 102100,
+      "latestWkid" : 3857
+    }
+  },
+  "FeatureStats" : {
+    "NumClasses" : 0,
+    "NumImagesTotal" : 0,
+    "NumFeaturesTotal" : 0,
+    "NumImagesPerClass" : [
+    ],
+    "NumFeaturesPerClass" : [
+    ],
+    "NumFeaturesPerImage" : {
+      "Min" : 0,
+      "Max" : 0,
+      "Mean" : 0,
+      "Sum" : 0,
+      "Count" : 0
+    },
+    "FeatureAreaPerClass" : [
+    ]
+  },
+  "InputRastersProps" : {
+    "RasterCount" : 1,
+    "SensorName" : "Undefined",
+    "BandNames" : [
+      "",
+      "",
+      ""
+    ]
+  },
+  "InputRastersProps2" : {
+    "RasterCount" : 1,
+    "SensorName" : "Undefined",
+    "BandNames" : [
+      "Band_1"
+    ]
+  },
+  "BandStatsState" : [
+    {
+      "Min" : 0,
+      "Max" : 255,
+      "Mean" : 0,
+      "StdDev" : 0,
+      "M1" : 85.092863510416962,
+      "M2" : 366099019900.70013,
+      "Num" : 192000000
+    },
+    {
+      "Min" : 0,
+      "Max" : 255,
+      "Mean" : 0,
+      "StdDev" : 0,
+      "M1" : 88.197744734375689,
+      "M2" : 376452404108.82599,
+      "Num" : 192000000
+    },
+    {
+      "Min" : 0,
+      "Max" : 255,
+      "Mean" : 0,
+      "StdDev" : 0,
+      "M1" : 55.801210218753198,
+      "M2" : 322293481219.62976,
+      "Num" : 192000000
+    }
+  ],
+  "BandStatsState2" : [
+    {
+      "Min" : 0,
+      "Max" : 255,
+      "Mean" : 0,
+      "StdDev" : 0,
+      "M1" : 2.0061864322917069,
+      "M2" : 92270745956.781448,
+      "Num" : 192000000
+    }
+  ]
+}
