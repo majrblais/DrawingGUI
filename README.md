@@ -43,6 +43,7 @@ This generates:
 - `images/` → input imagery tiles (`.tif`)
 - `images2/` → segmentation masks (`.tif`)
 ### 📌 Tip
+Delete files that are not `.tif` from `images/`. Currently there is a bug if `.tfw` files are left in the RGB folder.
 
 Use the ArcGIS Export Training Data tool on specific drawn extents This allows multiple users to work on different regions in parallel, improving productivity.
 
